@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("anil");
 		System.out.println("MOHANDU"); 
 		System.out.println("Raju ..");
+		System.out.println("RMA");
 	}
  
 	private static void displayGreeting() {
