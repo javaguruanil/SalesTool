@@ -6,7 +6,7 @@ public class Main {
 		SalesData data = new SalesData();
 		System.out.println("anil");
 		System.out.println("MOHANDU"); 
-		System.out.println("Raju");
+		System.out.println("Raju ..");
 	}
  
 	private static void displayGreeting() {
