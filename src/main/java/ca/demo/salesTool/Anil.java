@@ -7,6 +7,6 @@ public class Anil {
 	for(int i=1; i<=2; i++) {
 		System.out.println("*");
 	} 
-	System.out.println("HELLO");
+	System.out.println("BLAKE ");
 }
 }
