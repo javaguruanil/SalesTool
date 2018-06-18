@@ -6,6 +6,6 @@ public class Anil {
 	System.out.println("hi how are you");
 	for(int i=1; i<=2; i++) {
 		System.out.println("*");
-	}
+	} 
 }
 }
