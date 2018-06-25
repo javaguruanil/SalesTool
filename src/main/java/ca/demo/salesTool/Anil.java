@@ -9,10 +9,13 @@ public class Anil {
 		}
 		System.out.println("BLAKE ");
 	}
+<<<<<<< Upstream, based on origin/master
 
 	static void m11() {
 	}
 
 	static void m22() {
 	}
+=======
+>>>>>>> 12516ae commit from ABCRepo1
 }
