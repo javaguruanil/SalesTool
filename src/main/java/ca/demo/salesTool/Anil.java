@@ -10,9 +10,9 @@ public class Anil {
 	System.out.println("BLAKE ");
 }
  static void m2() {
-	 
+	 System.out.println("hi");
  }
  static void m3() {
-	 
+	 System.out.println("hello");
  }
 } 
