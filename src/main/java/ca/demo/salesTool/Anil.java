@@ -5,4 +5,7 @@ public class Anil {
 		System.out.println("hi");
 		System.out.println("hello");
 	}
+	void m1() {
+		System.out.println("f...");
+	}
 }
